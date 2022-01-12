@@ -4,7 +4,7 @@ import os
 from github import Github
 
 DOC_LABEL = "to be documented"
-DOC_MSG = "Hello @lancelote"
+DOC_MSG = "Hello"
 
 
 def env(key: str) -> str:
